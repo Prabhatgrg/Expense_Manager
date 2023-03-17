@@ -1,6 +1,6 @@
 # application
 
-A new Flutter project.
+A Flutter app for managing expenses
 
 ## Getting Started
 
